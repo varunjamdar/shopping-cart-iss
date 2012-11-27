@@ -3,7 +3,7 @@
     <tr>
         <td style="height: 157px; width: 728px;">
                        
-                        <img id="img1" src="../../../Browse/Images/Untitled-30.jpg" alt="Easy Wear" runat="server" height="181" style="width: 697px"/></td>
+                        <img id="img1" src="../../../Browse/Images/bottombanner_people.jpg" alt="Easy Wear" runat="server" height="181" style="width: 697px"/></td>
          <td align="right" style="width:25%; height: 172px;" valign="top">
                         <small> <a href='/Shopping/Default.aspx'>Home</a>
                                 <asp:LinkButton ID="lnkMyaccount" runat="server" Visible="False" OnClick="lnkMyaccount_Click">My Account</asp:LinkButton>
