@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 public partial class Default2 : System.Web.UI.Page
 {
-    protected void (object sender, EventArgs e)
+    protected void pageload(object sender, EventArgs e)
     {
 
     }
