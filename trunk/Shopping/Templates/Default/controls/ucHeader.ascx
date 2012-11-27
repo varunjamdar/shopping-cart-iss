@@ -10,9 +10,10 @@
                                 <a href='/Shopping/Cart/frmShoppingCart.aspx'>
                                     <asp:Label ID="lblCartCount" Text="Cart: (0)" runat="server"></asp:Label>
                                 </a>
+                        </small><br />
+                        <small> 
                             <asp:LinkButton ID="lnkLogin" runat="server" OnClick="lnkLogin_Click" CausesValidation="False">Login</asp:LinkButton>
                         </small>
-                        <img id="img3" src="../../../Browse/Images/cooltext75055321.gif" alt="Easy Wear" runat="server" width="300"/><br />
                         <img id="img4" src="../../../Browse/Images/images6.jpg" alt="Easy Wear" runat="server" width="300" height="100"/>
                     </td>
     </tr>
@@ -43,3 +44,5 @@
           </td>
     </tr>
 </table>
+<p>
+    &nbsp;</p>
