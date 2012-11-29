@@ -37,7 +37,7 @@
                     <uc7:ucpopularcategories id="UcPopularCategories1" runat="server"></uc7:ucpopularcategories>
                     <uc4:ucPopularBrands ID="UcPopularBrands1" runat="server"  />
                 
-                    <img src="../../Browse/Images/verticalimg.gif" runat="server" alt="Laptop" />
+                    <img src="~/Browse/Images/elegacyhanddyed.jpg" runat="server" alt="Laptop" />
                 </td>
                 <td style="width:66%" align="center" valign="top"> <%-- background-color:#ccccff"--%>
                     <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
@@ -46,7 +46,8 @@
                 </td>
                 <td style="width:20%" align="left" valign="top">
                     <uc6:ucRightTemplate ID="UcRightTemplate1" runat="server" />
-                    <img src="../../Browse/Images/verticalad.gif" runat="server" alt="host" />
+                    <img src="~/Browse/Images/Sunset.jpg" runat="server" alt="host" 
+                        width="200" />
                     </td>
             </tr>
             <tr>
