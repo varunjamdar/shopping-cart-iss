@@ -46,4 +46,8 @@ public partial class Registration_frmLogin : System.Web.UI.Page
             }
         }
     }
+    protected void txtUserName_TextChanged(object sender, EventArgs e)
+    {
+
+    }
 }

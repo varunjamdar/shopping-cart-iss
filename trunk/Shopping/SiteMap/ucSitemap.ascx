@@ -73,28 +73,28 @@
                     <tr>
                         <td align="center" class="sitemap">
                             <asp:LinkButton ID="btnnewuser" runat="server" Text="New User Register" Font-Underline="false"
-                                OnClick="btnnewuser_Click">
+                                OnClick="btnnewuser_Click" style="font-weight: 700">
                             </asp:LinkButton>
                         </td>
                     </tr>
                     <tr>
                         <td align="center" class="sitemap">
                             <asp:LinkButton ID="btnlogin" runat="server" Text="Login Page" Font-Underline="false"
-                                OnClick="btnlogin_Click">
+                                OnClick="btnlogin_Click" style="font-weight: 700">
                             </asp:LinkButton>
                         </td>
                     </tr>
                     <tr>
                         <td align="center" style="height: 21px" class="sitemap">
                             <asp:LinkButton ID="btnforgotpwd" runat="server" Text="Retrieve Password" Font-Underline="false"
-                                OnClick="btnforgotpwd_Click">
+                                OnClick="btnforgotpwd_Click" style="font-weight: 700">
                             </asp:LinkButton>
                         </td>
                     </tr>
                     <tr>
                         <td align="center" class="sitemap">
                             <asp:LinkButton ID="btnchangepwd" runat="server" Text="Change Password" Font-Underline="false"
-                                OnClick="btnchangepwd_Click">
+                                OnClick="btnchangepwd_Click" style="font-weight: 700">
                             </asp:LinkButton>
                         </td>
                     </tr>

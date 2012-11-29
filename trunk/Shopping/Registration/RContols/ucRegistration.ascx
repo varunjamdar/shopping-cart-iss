@@ -17,7 +17,7 @@
         <td align="right">
             <span style="color: Red">*</span> User Name:
             <br />
-            <small>(Enter your E-Mail ID) </small>
+            <small style="font-weight: bold">(Enter your E-Mail ID) </small>
         </td>
         <td align="left">
             <asp:TextBox ID="txtuser" runat="server" CausesValidation="true"></asp:TextBox>
