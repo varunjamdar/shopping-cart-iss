@@ -45,8 +45,10 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td colspan="2">
+                                <td colspan="2" align="center">
                                     &nbsp;
+                                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                                        ControlToValidate="txtPwd" ErrorMessage="User Name or Password Empty"></asp:RequiredFieldValidator>
                                 </td>
                                 <td>
                                 </td>
