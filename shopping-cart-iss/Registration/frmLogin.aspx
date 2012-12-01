@@ -21,7 +21,8 @@
                                         style="font-weight: 700" AutoCompleteType="Email" 
                                         ontextchanged="txtUserName_TextChanged"></asp:TextBox>
                                     <asp:RequiredFieldValidator ID="rfvUser" runat="server" ControlToValidate="txtUserName"
-                                        Text="*" ToolTip="Username cannot be Blank" Display="Dynamic"></asp:RequiredFieldValidator>
+                                        Text="*" ToolTip="Username cannot be Blank" Display="Dynamic" 
+                                        SetFocusOnError="True"></asp:RequiredFieldValidator>
                                 </td>
                             </tr>
                             <tr>
